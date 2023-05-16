@@ -1,4 +1,4 @@
-# Financial Modeling using Differential Equations
+# Stock Price Prediction using Differential Equations
 
 _Adit Jindal, Stefan Quaadgras, Zhichao Wang, Nipun Chhajed_
 
